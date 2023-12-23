@@ -21,6 +21,7 @@ header{
     text-align: center;
     font-size: 80px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border-bottom: 3px dashed lightgray;
 }
 
 nav{
@@ -104,13 +105,13 @@ footer{
 }
 
 .lpo{
-    color:lightslategrey;
+    color:lightgray;    
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .hjk{
-    color:lightgray;
+    color:white;
     font-size: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
